@@ -1,0 +1,44 @@
+.ng-invalid.ng-dirty {
+  border-color: #FA787E;
+}
+
+.ng-valid.ng-dirty {
+  border-color: #78FA89;
+}
+
+header {
+	background: #ddd;
+	padding: 7px;
+}
+
+.inlines {
+	display: inline-block;
+	width: 70px;
+	height: 70px;
+	margin-left: 5px;
+}
+
+.central-img {
+	margin-bottom: 10px;
+	margin-left: 5px;
+}
+
+.containers {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+.clearfix {
+	padding-left: 0;
+}
+
+textarea {
+	resize: none;
+}
+
+.cont {
+	border: 1px solid;
+	border-right: none;
+	border-left: none;
+}

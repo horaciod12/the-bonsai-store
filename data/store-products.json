@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Ginseng Grafted Ficus",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "holes": "yes",
+    "price": 28.52,
+    "rarity": 7,
+    "pot": "yes",
+    "branches": "1-2",
+    "images": [
+      "images/tree_1.png",
+      "images/tree_2.png",
+      "images/tree_3.png"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Green Mound Juniper",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "holes": "no",
+    "price": 33.64,
+    "rarity": 6,
+    "pot": "yes",
+    "branches": "1-7",
+    "images": [
+      "images/tree_4.png",
+      "images/tree_5.png",
+      "images/tree_6.png"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Hawaiian Umbrella",
+    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "holes": "no",
+    "price": 100.08,
+    "rarity": 2,
+    "pot": "yes",
+    "branches": "1-10",
+    "images": [
+      "images/tree_7.png",
+      "images/tree_8.png",
+      "images/tree_9.png"
+    ],
+    "reviews": []
+  }
+]
